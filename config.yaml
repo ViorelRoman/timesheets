@@ -1,0 +1,11 @@
+repos:
+    hg:
+        - <LOCAL PATH TO HG REPO>
+    git:
+        - <LOCAL PATH TO GIT REPO>
+    user: <YOUR USER IN REPOS>
+
+calendars:
+    calendar:
+        - <URL TO ICS CALENDAR>
+    default_ticket: <DEFAULT TICKET NAME>
